@@ -1,0 +1,26 @@
+PODS:
+  - JGProgressHUD (2.1)
+  - Kingfisher (5.15.5):
+    - Kingfisher/Core (= 5.15.5)
+  - Kingfisher/Core (5.15.5)
+  - SwiftHash (2.0.2)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - Kingfisher
+  - SwiftHash
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - Kingfisher
+    - SwiftHash
+
+SPEC CHECKSUMS:
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  Kingfisher: e3ec347a5ab8817b7585ef46923a2d2b9a7d8fbe
+  SwiftHash: 6d312abe61c8359bdef8d0093642f3a70b1c17ba
+
+PODFILE CHECKSUM: e7012fac2ad08fb72b8d2bb1eeeedbdeb7b155f5
+
+COCOAPODS: 1.9.3
